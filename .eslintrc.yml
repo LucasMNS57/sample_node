@@ -1,4 +1,4 @@
-module.exports = {
+{
     "env": {
         "browser": true,
         "commonjs": true,
@@ -10,6 +10,5 @@ module.exports = {
     },
     "ignorePatterns": ["*.spec.js"],
     "rules": {
-        // Ajoutez vos règles personnalisées ici si nécessaire
     }
-};
+}
